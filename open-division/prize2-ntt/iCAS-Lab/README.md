@@ -18,7 +18,7 @@ Before running you should change the following variables in the `ntt_2_24_opt/ma
 - `const std::string OUT_FILE_PATH = "/home/<YOURUSERNAME>/ntt_2_24_opt/data/out/";`
 - `const std::string POWERS_FILE_PATH = "/home/<YOURUSERNAME>/ntt_2_24_opt/data/";`
 
-Change the paths so that they point at the directores `in` and `out` which contain files named with the prefixes `linear_2_` or `fully_random_2_`.
+Change the paths so that they point at the directories `in` and `out` which contain files named with the prefixes `linear_2_` or `fully_random_2_`.
 
 ## File/Directory Structure:
 
